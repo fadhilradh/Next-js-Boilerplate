@@ -20,7 +20,7 @@ const Main = (props: IMainProps) => (
           </div>
           <div className="text-xl">{AppConfig.description}</div>
         </div>
-        <div>
+        <nav>
           <ul className="flex flex-wrap text-xl">
             <li className="mr-6">
               <Link
@@ -55,7 +55,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
           </ul>
-        </div>
+        </nav>
       </div>
 
       <div className="content py-5 text-xl">{props.children}</div>
