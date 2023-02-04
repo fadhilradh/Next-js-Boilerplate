@@ -25,7 +25,7 @@ const Index = () => {
         Boilerplate code for your Nextjs project with Tailwind CSS
       </h2>
       <p>
-        <span role="img" aria-label="rocket"> 
+        <span role="img" aria-label="rocket">
           🚀
         </span>{' '}
         Next.js Boilerplate is a starter code for your Next js project by
